@@ -30,13 +30,6 @@
 *   `db/` - Contains the `DatabaseHelper` class for managing SQLite operations.
 *   `models/` - Data classes (`Trip`, `ActivityModel`, `User`).
 
-## 📱 Screenshots
-
-![App Screenshot](images/image1.jpeg)
-![App Screenshot](images/image2.jpeg)
-![App Screenshot](images/image3.jpeg)
-
-
 ## ⚙️ How to Run the Project
 
 1.  **Clone the repository:**
