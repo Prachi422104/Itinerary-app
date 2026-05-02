@@ -32,7 +32,10 @@
 
 ## 📱 Screenshots
 
-![App Screenshot](image1.jpg)
+![App Screenshot](images/image1.jpeg)
+![App Screenshot](images/image2.jpeg)
+![App Screenshot](images/image3.jpeg)
+
 
 ## ⚙️ How to Run the Project
 
