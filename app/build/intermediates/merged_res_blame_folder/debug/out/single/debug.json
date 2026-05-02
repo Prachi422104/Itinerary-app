@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.itineraryapp-merged_res-33:/drawable_bg_time_tag.xml.flat",
+        "source": "com.example.itineraryapp-main-35:/drawable/bg_time_tag.xml"
+    },
+    {
+        "merged": "com.example.itineraryapp-merged_res-33:/layout_item_trip.xml.flat",
+        "source": "com.example.itineraryapp-main-35:/layout/item_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_add_activity.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_add_activity.xml"
+    },
+    {
+        "merged": "com.example.itineraryapp-merged_res-33:/drawable_bg_image_overlay.xml.flat",
+        "source": "com.example.itineraryapp-main-35:/drawable/bg_image_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\drawable_bg_glass_card.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\drawable\\bg_glass_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_item_activity.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_add_trip.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_add_trip.xml"
+    },
+    {
+        "merged": "com.example.itineraryapp-merged_res-33:/drawable_bg_badge.xml.flat",
+        "source": "com.example.itineraryapp-main-35:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\drawable_bg_main_gradient.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\drawable\\bg_main_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_item_day_header.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\item_day_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_item_trip.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\item_trip.xml"
+    },
+    {
+        "merged": "com.example.itineraryapp-merged_res-33:/layout_item_activity.xml.flat",
+        "source": "com.example.itineraryapp-main-35:/layout/item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_dialog_activity_details.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\dialog_activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-merged_res-33:\\layout_activity_trip_details.xml.flat",
+        "source": "C:\\Users\\Prachi Talmale\\.gradle\\daemon\\8.2\\com.example.itineraryapp-main-35:\\layout\\activity_trip_details.xml"
+    }
+]

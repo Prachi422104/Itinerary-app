@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glassmorphism Colors -->
+    <color name="glass_white">#BCFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="bg_gradient_start">#4facfe</color>
+    <color name="bg_gradient_end">#00f2fe</color>
+
+    <color name="colorPrimary">#4facfe</color>
+    <color name="colorPrimaryDark">#00f2fe</color>
+    <color name="colorAccent">#4facfe</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_color">#F0F2F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1A237E</color>
+    <color name="text_secondary">#546E7A</color>
+    
+    <color name="primary_color">#4facfe</color>
+    <color name="button_pressed">#1565C0</color>
+    <color name="pastel_blue">#AEC6CF</color>
+</resources>

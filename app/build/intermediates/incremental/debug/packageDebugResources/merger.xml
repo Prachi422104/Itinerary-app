@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\src\main\res"><file name="bg_glass_card" path="D:\icecream\app\src\main\res\drawable\bg_glass_card.xml" qualifiers="" type="drawable"/><file name="bg_main_gradient" path="D:\icecream\app\src\main\res\drawable\bg_main_gradient.xml" qualifiers="" type="drawable"/><file name="ic_add" path="D:\icecream\app\src\main\res\drawable\ic_add.xml" qualifiers="" type="drawable"/><file name="activity_add_activity" path="D:\icecream\app\src\main\res\layout\activity_add_activity.xml" qualifiers="" type="layout"/><file name="activity_add_trip" path="D:\icecream\app\src\main\res\layout\activity_add_trip.xml" qualifiers="" type="layout"/><file name="activity_login" path="D:\icecream\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\icecream\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_profile" path="D:\icecream\app\src\main\res\layout\activity_profile.xml" qualifiers="" type="layout"/><file name="activity_signup" path="D:\icecream\app\src\main\res\layout\activity_signup.xml" qualifiers="" type="layout"/><file name="activity_trip_details" path="D:\icecream\app\src\main\res\layout\activity_trip_details.xml" qualifiers="" type="layout"/><file name="dialog_activity_details" path="D:\icecream\app\src\main\res\layout\dialog_activity_details.xml" qualifiers="" type="layout"/><file name="item_activity" path="D:\icecream\app\src\main\res\layout\item_activity.xml" qualifiers="" type="layout"/><file name="item_day_header" path="D:\icecream\app\src\main\res\layout\item_day_header.xml" qualifiers="" type="layout"/><file name="item_trip" path="D:\icecream\app\src\main\res\layout\item_trip.xml" qualifiers="" type="layout"/><file name="drawer_menu" path="D:\icecream\app\src\main\res\menu\drawer_menu.xml" qualifiers="" type="menu"/><file path="D:\icecream\app\src\main\res\values\colors.xml" qualifiers=""><color name="glass_white">#BCFFFFFF</color><color name="glass_border">#33FFFFFF</color><color name="bg_gradient_start">#4facfe</color><color name="bg_gradient_end">#00f2fe</color><color name="colorPrimary">#4facfe</color><color name="colorPrimaryDark">#00f2fe</color><color name="colorAccent">#4facfe</color><color name="white">#FFFFFF</color><color name="background_color">#F0F2F5</color><color name="card_background">#FFFFFF</color><color name="text_primary">#1A237E</color><color name="text_secondary">#546E7A</color><color name="primary_color">#4facfe</color><color name="button_pressed">#1565C0</color><color name="pastel_blue">#AEC6CF</color><color name="black">#000000</color></file><file path="D:\icecream\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Itinerary App</string><string name="add_trip_title">Add New Trip</string><string name="add_trip">Add Trip</string><string name="save">Save</string><string name="destination_hint">Destination (e.g. Paris)</string><string name="start_date_hint">Start Date (YYYY-MM-DD)</string><string name="end_date_hint">End Date (YYYY-MM-DD)</string><string name="trip_details_title">Trip Details</string><string name="add_activity_title">Add Activity</string><string name="activity_title_hint">Activity Title (e.g. Visit Louvre)</string><string name="activity_time_hint">Time (e.g. 10:00 AM)</string><string name="activity_notes_hint">Notes / Location Details</string><string name="no_trips_found">No trips planned yet. Add one!</string><string name="no_activities_found">No activities yet. Tap + to add.</string><string name="app_display_name">TravelEase</string><string name="welcome_back">Welcome Back</string><string name="login_subtitle">Sign in to continue your journey</string><string name="create_account">Create Account</string><string name="signup_subtitle">Join us and start planning your trips</string><string name="dont_have_account">Don\'t have an account? Sign up</string><string name="already_have_account">Already have an account? Log in</string><string name="nav_profile">Profile</string><string name="nav_trips">My Trips</string><string name="nav_theme">Toggle Dark/Light Mode</string><string name="nav_logout">Logout</string><string name="hello_user">Hello, %s 👋</string><string name="navigation_drawer_open">Open navigation drawer</string><string name="navigation_drawer_close">Close navigation drawer</string><string name="completed_badge">COMPLETED ✅</string></file><file path="D:\icecream\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.ItineraryApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+
+        
+        <item name="android:datePickerDialogTheme">@style/CustomPickerTheme</item>
+        <item name="android:timePickerDialogTheme">@style/CustomPickerTheme</item>
+
+        
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style><style name="ItineraryCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style><style name="CustomDatePickerDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style><style name="CustomPickerTheme" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style></file><file path="D:\icecream\app\src\main\res\values-night\colors.xml" qualifiers="night-v8"><color name="colorPrimary">#64B5F6</color><color name="colorPrimaryDark">#000000</color><color name="colorAccent">#64B5F6</color><color name="white">#FFFFFF</color><color name="black">#000000</color><color name="background_color">#121212</color><color name="card_background">#1E1E1E</color><color name="text_primary">#E1E1E1</color><color name="text_secondary">#B0B0B0</color><color name="primary_color">#64B5F6</color><color name="button_pressed">#1976D2</color></file><file path="D:\icecream\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.ItineraryApp" parent="Theme.MaterialComponents.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+
+        <item name="android:datePickerDialogTheme">@style/CustomDatePickerDialog</item>
+        <item name="android:timePickerDialogTheme">@style/CustomDatePickerDialog</item>
+
+        
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:editTextColor">@color/text_primary</item>
+    </style><style name="CustomDatePickerDialog" parent="Theme.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:windowBackground">@color/card_background</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog</item>
+    </style></file><file name="bg_badge" path="D:\icecream\app\src\main\res\drawable\bg_badge.xml" qualifiers="" type="drawable"/><file name="bg_image_overlay" path="D:\icecream\app\src\main\res\drawable\bg_image_overlay.xml" qualifiers="" type="drawable"/><file name="bg_time_tag" path="D:\icecream\app\src\main\res\drawable\bg_time_tag.xml" qualifiers="" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\icecream\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

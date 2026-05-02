@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background_color">#F0F2F5</color>
+    <color name="bg_gradient_end">#00f2fe</color>
+    <color name="bg_gradient_start">#4facfe</color>
+    <color name="black">#000000</color>
+    <color name="button_pressed">#1565C0</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="colorAccent">#4facfe</color>
+    <color name="colorPrimary">#4facfe</color>
+    <color name="colorPrimaryDark">#00f2fe</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="glass_white">#BCFFFFFF</color>
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="primary_color">#4facfe</color>
+    <color name="text_primary">#1A237E</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="activity_notes_hint">Notes / Location Details</string>
+    <string name="activity_time_hint">Time (e.g. 10:00 AM)</string>
+    <string name="activity_title_hint">Activity Title (e.g. Visit Louvre)</string>
+    <string name="add_activity_title">Add Activity</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="add_trip_title">Add New Trip</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="app_display_name">TravelEase</string>
+    <string name="app_name">Itinerary App</string>
+    <string name="completed_badge">COMPLETED ✅</string>
+    <string name="create_account">Create Account</string>
+    <string name="destination_hint">Destination (e.g. Paris)</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+    <string name="end_date_hint">End Date (YYYY-MM-DD)</string>
+    <string name="hello_user">Hello, %s 👋</string>
+    <string name="login_subtitle">Sign in to continue your journey</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_theme">Toggle Dark/Light Mode</string>
+    <string name="nav_trips">My Trips</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no_activities_found">No activities yet. Tap + to add.</string>
+    <string name="no_trips_found">No trips planned yet. Add one!</string>
+    <string name="save">Save</string>
+    <string name="signup_subtitle">Join us and start planning your trips</string>
+    <string name="start_date_hint">Start Date (YYYY-MM-DD)</string>
+    <string name="trip_details_title">Trip Details</string>
+    <string name="welcome_back">Welcome Back</string>
+    <style name="CustomDatePickerDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="CustomPickerTheme" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="ItineraryCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+    <style name="Theme.ItineraryApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+
+        
+        <item name="android:datePickerDialogTheme">@style/CustomPickerTheme</item>
+        <item name="android:timePickerDialogTheme">@style/CustomPickerTheme</item>
+
+        
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>
