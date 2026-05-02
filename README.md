@@ -1,6 +1,6 @@
 # Itinerary App 🌍✈️
 
-**TravelEase** is a modern, native Android application designed to help users plan, organize, and manage their trips effortlessly. With its smart, automated itinerary generation engine, TravelEase takes the hassle out of travel planning by providing realistic, day-wise travel plans and smart destination recommendations.
+**Itinerary App** is a modern, native Android application designed to help users plan, organize, and manage their trips effortlessly. With its smart, automated itinerary generation engine, TravelEase takes the hassle out of travel planning by providing realistic, day-wise travel plans and smart destination recommendations.
 
 ## 🚀 Features
 
@@ -32,7 +32,7 @@
 
 ## 📱 Screenshots
 
-*(Add screenshots of your application here: Login Screen, Dashboard, Add Trip, Day-wise Itinerary View, and Confetti Animation)*
+![App Screenshot](image1.jpg)
 
 ## ⚙️ How to Run the Project
 
